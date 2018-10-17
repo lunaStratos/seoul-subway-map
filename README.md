@@ -1,5 +1,4 @@
 # Kimino Densha (Korea Online Subway information System)
-master 32's project
 
 This project is Online Subway information System. used public used api and arduino(infrared sensor)
 Make date is 2 month. Language is Java, JS,Jquery, Css, and HTML
